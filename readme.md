@@ -4,3 +4,4 @@ Public github demonstration of my prior work:
 2. Purely for demonstration and storage purposes. Do not copy anything or you would do so at your own risk.
 3. Here, I have a reorganized Assignment 5 given by the lecturer, and I also used it for Assignment 6, so it feels a little different after Assignment 4.
 4. I get that people would want to test heroku apps. Feel free to, but note that at the time of writing, Assignment 6 does not show department ID properly.
+5. To state the obvious, there were way too many git logs and node_modules files and I exclude all of them. The package.json files tell you which packages each solution takes.
