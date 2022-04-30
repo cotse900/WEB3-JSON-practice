@@ -4,7 +4,7 @@
 const Sequelize = require('sequelize'); 
 // Replace the credentials
 //https://guarded-cliffs-50837.herokuapp.com/
-var sequelize = new Sequelize('d69q52fnnfvm5s', 'qrantrxnaydcdr', '2b47aa4b24163157026924dcbf6af47fb25204c775ff91d27a3a2a189836645c',  { query: { raw: true },
+var sequelize = new Sequelize(database, user, password,  { query: { raw: true },
 
        host: 'ec2-34-194-158-176.compute-1.amazonaws.com',     
        dialect: 'postgres',     
